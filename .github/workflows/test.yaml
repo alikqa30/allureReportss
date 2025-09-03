@@ -1,6 +1,6 @@
 name: Tets
 
-on: [push]
+on: workflow_dispatch
 
 jobs:
     test:
